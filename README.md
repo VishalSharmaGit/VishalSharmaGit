@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishal Sharma
-- 👀 I’m interested in Analytics
+- 👀 I have interest in Analytics
 - 🌱 I’m done with SQL, Power Bi, Advanced Excel, Python
 
 <!---
