@@ -23,7 +23,6 @@ Data Cleaning | Data Transformation | KPI Analysis | Dashboarding
 
 ## 📫 Connect With Me
 * 💼 LinkedIn: https://www.linkedin.com/in/vishalsharma-dataspecialist/
-* 🌐 Portfolio: https://vishal-portfolio-black.vercel.app/
 * 📧 Email: [vishalsharma965352@gmail.com](mailto:vishalsharma965352@gmail.com)
 
 ## ⚡ Fun Fact
